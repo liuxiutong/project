@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="casclient_demo1" />
+        <module name="casclient_demo2" />
+        <module name="casclient_demo3" />
+        <module name="fastDFS_demo" />
+        <module name="Freemarker_Demo" />
+        <module name="itcast_sms_service" />
+        <module name="jmsDemo" />
+        <module name="pingyougou-common" />
+        <module name="pingyougou-dao" />
+        <module name="pingyougou-manger-web" />
+        <module name="pingyougou-pojo" />
+        <module name="pingyougou-sellergoods-interface" />
+        <module name="pingyougou-sellergoods-service" />
+        <module name="pingyougou-shop-web" />
+        <module name="pinyougou-content-interface" />
+        <module name="pinyougou-content-service" />
+        <module name="pinyougou-portal-web" />
+        <module name="pinyougou-search-interface" />
+        <module name="pinyougou-search-service" />
+        <module name="pinyougou-search-web" />
+        <module name="pinyougou-solr-util" />
+        <module name="pinyougou_cart_interface" />
+        <module name="pinyougou_cart_service" />
+        <module name="pinyougou_cart_web" />
+        <module name="pinyougou_order_interface" />
+        <module name="pinyougou_order_service" />
+        <module name="pinyougou_page_interface" />
+        <module name="pinyougou_page_service" />
+        <module name="pinyougou_page_web" />
+        <module name="pinyougou_par_interface" />
+        <module name="pinyougou_par_service" />
+        <module name="pinyougou_seckill_interface" />
+        <module name="pinyougou_seckill_service" />
+        <module name="pinyougou_seckill_web" />
+        <module name="pinyougou_user_interface" />
+        <module name="pinyougou_user_service" />
+        <module name="pinyougou_user_web" />
+        <module name="spring_boot_Demo" />
+        <module name="spring_consumer" />
+        <module name="spring_securiity_demo" />
+        <module name="SpringDataRedisDemo" />
+        <module name="springjms_producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubboxdemo-service" target="1.5" />
+      <module name="dubboxdemo-web" target="1.5" />
+      <module name="pingyougou_user_interface" target="1.7" />
+      <module name="springData_Solr_demo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
